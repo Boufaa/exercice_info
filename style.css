@@ -1,0 +1,39 @@
+body{
+	background: url(Login.jpg) no-repeat;
+}
+form{
+	width: 200px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50% ,-50%);
+
+}
+table{
+	width: 500px;
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50% ,-50%);
+	text-align: center;
+	color: #fff;
+}
+#btn{
+	border-radius: 10px;
+	background-color: #fff;
+	border:none;
+	font-size: 20px;
+	;
+}
+.ggg{
+	text-align: center;
+	margin-right: 40px;
+
+}
+input{
+	margin-bottom: 10px;
+}
+#place{
+	margin-bottom: 10px;
+}
+
